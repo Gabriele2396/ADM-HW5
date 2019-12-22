@@ -1,4 +1,6 @@
-## Homework 5 of Algorithmic Methods of Data Mining of Group 15, consisting of the following members:
+## Homework 5 of Algorithmic Methods of Data Mining of Group 15
+
+The group is composed by the following members:
 
 Gabriele Giannotta
 Trina Sahoo
