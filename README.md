@@ -10,4 +10,4 @@ The group is composed by the following members:
 
 The repository contains:
 
-main.py --> A Python script which executes the whole system, is missing the last function (number 4).
+main.py --> A Python script which executes the whole system.
