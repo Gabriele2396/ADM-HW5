@@ -11,3 +11,11 @@ The group is composed by the following members:
 The repository contains:
 
 main.py --> A Python script which executes the whole system.
+
+func_1.ipynb: suggested python file that contains functions for Functionality 1
+
+func_2.ipynb: suggested python file that contains functions for Functionality 2 
+
+func_3.ipynb: suggested python file that contains functions for Functionality 3 
+
+func_4.ipynb: suggested python file that contains functions for Functionality 4 
