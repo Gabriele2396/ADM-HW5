@@ -1,5 +1,7 @@
 ## Homework 5 of Algorithmic Methods of Data Mining of Group 15
 
+The main goal of the homework is to build a system that provides users with information about roads in California and Nevada.
+
 The group is composed by the following members:
 
 - Gabriele Giannotta
