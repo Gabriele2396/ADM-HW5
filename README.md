@@ -2,9 +2,9 @@
 
 The group is composed by the following members:
 
-Gabriele Giannotta
-Trina Sahoo
-Mohanraj Chandrasekar
+- Gabriele Giannotta
+- Trina Sahoo
+- Mohanraj Chandrasekar
 
 The repository contains:
 
